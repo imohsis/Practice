@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\bin\Debug\netcoreapp2.2\PRACTICE.HELPERS.deps.json
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\bin\Debug\netcoreapp2.2\PRACTICE.HELPERS.dll
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\bin\Debug\netcoreapp2.2\PRACTICE.HELPERS.pdb
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\obj\Debug\netcoreapp2.2\PRACTICE.HELPERS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\obj\Debug\netcoreapp2.2\PRACTICE.HELPERS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\obj\Debug\netcoreapp2.2\PRACTICE.HELPERS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\obj\Debug\netcoreapp2.2\PRACTICE.HELPERS.AssemblyInfo.cs
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\obj\Debug\netcoreapp2.2\PRACTICE.HELPERS.dll
+C:\Users\user\source\repos\PRACTICE\PRACTICE.HELPERS\obj\Debug\netcoreapp2.2\PRACTICE.HELPERS.pdb

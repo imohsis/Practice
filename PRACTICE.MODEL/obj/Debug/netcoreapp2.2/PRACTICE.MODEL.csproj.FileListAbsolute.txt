@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\bin\Debug\netcoreapp2.2\PRACTICE.MODEL.deps.json
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\bin\Debug\netcoreapp2.2\PRACTICE.MODEL.dll
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\bin\Debug\netcoreapp2.2\PRACTICE.MODEL.pdb
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\obj\Debug\netcoreapp2.2\PRACTICE.MODEL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\obj\Debug\netcoreapp2.2\PRACTICE.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\obj\Debug\netcoreapp2.2\PRACTICE.MODEL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\obj\Debug\netcoreapp2.2\PRACTICE.MODEL.AssemblyInfo.cs
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\obj\Debug\netcoreapp2.2\PRACTICE.MODEL.dll
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\obj\Debug\netcoreapp2.2\PRACTICE.MODEL.pdb
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\bin\Debug\netcoreapp2.2\PRACTICE.MODEL.runtimeconfig.json
+C:\Users\user\source\repos\PRACTICE\PRACTICE.MODEL\bin\Debug\netcoreapp2.2\PRACTICE.MODEL.runtimeconfig.dev.json

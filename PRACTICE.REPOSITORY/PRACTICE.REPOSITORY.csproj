@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Dapper" Version="2.0.30" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PRACTICE.CORE\PRACTICE.CORE.csproj" />
+    <ProjectReference Include="..\PRACTICE.ENUM\PRACTICE.ENUM.csproj" />
+    <ProjectReference Include="..\PRACTICE.HELPERS\PRACTICE.HELPERS.csproj" />
+    <ProjectReference Include="..\PRACTICE.MODEL\PRACTICE.MODEL.csproj" />
+  </ItemGroup>
+
+</Project>

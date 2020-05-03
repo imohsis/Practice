@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\bin\Debug\netcoreapp2.2\PRACTICE.CORE.deps.json
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\bin\Debug\netcoreapp2.2\PRACTICE.CORE.dll
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\bin\Debug\netcoreapp2.2\PRACTICE.CORE.pdb
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\bin\Debug\netcoreapp2.2\PRACTICE.HELPERS.dll
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\bin\Debug\netcoreapp2.2\PRACTICE.HELPERS.pdb
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\obj\Debug\netcoreapp2.2\PRACTICE.CORE.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\obj\Debug\netcoreapp2.2\PRACTICE.CORE.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\obj\Debug\netcoreapp2.2\PRACTICE.CORE.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\obj\Debug\netcoreapp2.2\PRACTICE.CORE.AssemblyInfo.cs
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\obj\Debug\netcoreapp2.2\PRACTICE.CORE.csproj.CopyComplete
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\obj\Debug\netcoreapp2.2\PRACTICE.CORE.dll
+C:\Users\user\source\repos\PRACTICE\PRACTICE.CORE\obj\Debug\netcoreapp2.2\PRACTICE.CORE.pdb
